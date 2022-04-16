@@ -5,5 +5,5 @@ This Repository contains, every projects and important concepts in the computer 
 <h3> OCR with Pytesseract </h3>
 *  You can find the code in the file of ocr_pytesseract.ipynb
 <h2> Results </h2>
-<img src = "images/ocr_result" width = "300" height = "300" />
-<img src = "images/ocr_result2" width = "300" height = "300" />                                                     
+<img src = "images/ocr_result.png" width = "300" height = "300" />
+<img src = "images/ocr_result2.png" width = "300" height = "300" />                                                     
